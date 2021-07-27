@@ -1,16 +1,18 @@
 # Ducky-3D-Infinite-Loop-Animation
  These projects are created from Ducky 3D tutorials.
 
-
+![](https://i.imgur.com/XbYcL8r.gif)
 <div align="center">
 <img src="https://i.imgur.com/XbYcL8r.gif" style="width: 100%"></img>
 </div>
 <br><br>
 
 <div align="center">
-<img src="https://i.imgur.com/YfXn79b.gif" style="width: 100%"></img>
+<img src="Render\gif\Loop1.gif" style="width: 100%"></img>
 </div>
 <br><br>
+
+![](Render\gif\Loop1.gif)
 
 <div align="center">
 <img src="https://i.imgur.com/6FKFysR.gif" style="width: 100%"></img>
